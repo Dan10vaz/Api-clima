@@ -19,6 +19,7 @@ function buscarClima(e) {
         return;
 
     }else {
+        
 
     }
 
